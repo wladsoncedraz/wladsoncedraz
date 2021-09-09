@@ -4,9 +4,9 @@
 - 🌱 Estudando .Net Core e API's RESTfull
 
 <div class="info-principal">
-  <a href="https://www.linkedin.com/in/wladsoncedraz/">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=wladsoncedraz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladsoncedraz&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://www.linkedin.com/in/wladsoncedraz/" target="_blank">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=wladsoncedraz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladsoncedraz&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div class="tecnologias" style="display: inline_block;"><br>
