@@ -1,10 +1,10 @@
 <div align="center">
-  <h1>Olá! Eu sou o Wladson Cedraz</h1>
+  <h1>Olá! Me chamo Wladson Cedraz</h1>
 </div>
 
 <div align="center">
-  🔭 Hoje trabalho com backend C#, .Net, SQLServer e me arrisco no front basico </br>
-  🌱 Estudando .Net Core e API's RESTfull
+  🔭 Desenvolvedor .Net, atuando com diferentes versoes do .Net desde framework 4.6 ao .Net 6 junto a diversas tecnologias que englobam o ecossistema e algumas tecnologias de front como Angular. </br>
+  🌱 Estudos focados em .Net 6, API's e qualidade de codigo.
 </div>
   
   </br>
