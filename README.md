@@ -1,36 +1,46 @@
 <div align="center">
-  <h1>Olá! Me chamo Wladson Cedraz</h1>
+  <h2>Wladson Cedraz</h2>
+  <p>
+    <b>Senior Software Engineer | .NET & AWS Cloud Architect</b>
+  </p>
+  <p>
+    <i>Especialista em construir soluções distribuídas, escaláveis e resilientes para o setor Financeiro.</i>
+  </p>
+  
+  <br>
+
+  <a href="https://www.linkedin.com/in/wladsoncedraz/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:wladylinux@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+
+  <br><br>
 </div>
+
+### ⚡ Sobre Mim
+
+Atualmente atuo como **Engenheiro de Software**, focado em modernização de sistemas legados e criação de soluções *greenfield* utilizando **Arquitetura Serverless** e **Event-Driven**.
+
+- 🔭 **Atualmente trabalhando em:** Soluções de alta volumetria para Banking/Fintech.
+- 🏗️ **Arquitetura:** Microsserviços, EDA, DDD, Clean Architecture & Serverless.
+- ☁️ **Cloud Native:** AWS (Lambda, SQS/DLQ, DynamoDB, API Gateway).
+- 💬 **Soft Skills:** Liderança Técnica e Design de Soluções.
+
+---
+
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  🔭 Desenvolvedor .Net, atuando com diferentes versoes do .Net desde framework 4.6 ao .Net 6 junto a diversas tecnologias que englobam o ecossistema e algumas tecnologias de front como Angular. </br>
-  🌱 Estudos focados em .Net 6, API's e qualidade de codigo.
-</div>
-  
-  </br>
-  
-<div align="center" class="info-principal">
-  <a href="https://github.com/wladsoncedraz" target="_blank">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=wladsoncedraz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladsoncedraz&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,aws,postgres,dynamodb,docker,azure,git,visualstudio,vscode&perline=12" />
 </div>
 
-<div align="center" class="tecnologias" style="display: inline_block;"><br>
-  <img align="center" alt="Wlady-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Wlady-Dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="Wlady-Sqlserver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  
-  <img align="center" alt="Wlady-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Wlady-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Wlady-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Wlady-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
-</div>
-  
-<br />
-  
-<div align="center" class="redes-sociais"> 
-  <a href="https://www.instagram.com/wladsoncedraz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wladsoncedraz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:wladylinux@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/wladsoncedraz"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<br>
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wladsoncedraz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladsoncedraz&layout=compact&langs_count=6&theme=dracula&hide_border=true&hide=html,css"/>
 </div>
