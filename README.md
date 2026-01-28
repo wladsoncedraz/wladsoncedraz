@@ -6,17 +6,7 @@
   <p>
     <i>Especialista em construir soluções distribuídas, escaláveis e resilientes para o setor Financeiro.</i>
   </p>
-  
-  <br>
-
-  <a href="https://www.linkedin.com/in/wladsoncedraz/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:wladylinux@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-
-  <br><br>
+</br>
 </div>
 
 ### ⚡ Sobre Mim
